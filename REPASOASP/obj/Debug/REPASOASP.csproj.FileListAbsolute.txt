@@ -1,0 +1,10 @@
+C:\Users\100_Jornada1\source\repos\REPASOASP\REPASOASP\bin\Debug\REPASOASP.exe.config
+C:\Users\100_Jornada1\source\repos\REPASOASP\REPASOASP\bin\Debug\REPASOASP.exe
+C:\Users\100_Jornada1\source\repos\REPASOASP\REPASOASP\bin\Debug\REPASOASP.pdb
+C:\Users\100_Jornada1\source\repos\REPASOASP\REPASOASP\obj\Debug\REPASOASP.csprojAssemblyReference.cache
+C:\Users\100_Jornada1\source\repos\REPASOASP\REPASOASP\obj\Debug\REPASOASP.Form1.resources
+C:\Users\100_Jornada1\source\repos\REPASOASP\REPASOASP\obj\Debug\REPASOASP.Properties.Resources.resources
+C:\Users\100_Jornada1\source\repos\REPASOASP\REPASOASP\obj\Debug\REPASOASP.csproj.GenerateResource.cache
+C:\Users\100_Jornada1\source\repos\REPASOASP\REPASOASP\obj\Debug\REPASOASP.csproj.CoreCompileInputs.cache
+C:\Users\100_Jornada1\source\repos\REPASOASP\REPASOASP\obj\Debug\REPASOASP.exe
+C:\Users\100_Jornada1\source\repos\REPASOASP\REPASOASP\obj\Debug\REPASOASP.pdb
